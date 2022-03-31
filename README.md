@@ -55,7 +55,7 @@ Fix Checksums:Apply
 |配置 | 描述
 |-----|------------
 |`vscode-cats.enabled`| true:启用插件、false:禁用插件
-|`vscode-cats.model`| 选择喵咪模型
+|`vscode-cats.model`| 选择喵咪模型，tororo:白猫、hijiki:黑猫 
 |`vscode-cats.modelWidth`| 自定义喵咪宽度
 |`vscode-cats.modelHeight`| 自定义喵咪高度
 |`vscode-cats.moveX`| 自定义喵咪水平位置
